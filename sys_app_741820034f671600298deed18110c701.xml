@@ -4,7 +4,7 @@
         <active>true</active>
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
-        <licensable>true</licensable>
+        <licensable>true</licensablee>
         <logo/>
         <menu/>
         <name>Continuous Integration</name>
